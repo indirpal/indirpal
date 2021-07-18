@@ -1,6 +1,6 @@
 İndirPal - Uygulama, Program, Oyun VE Teknoloji Haberleri
 ======
 
-## Dependencies
+## İndirPal
 
 * [indirpal](https://www.indirpal.com/)
